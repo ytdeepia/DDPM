@@ -23,13 +23,13 @@ I switched to ``uv`` to manage my environments and recommend using it.
 You can create a ``.venv`` from the requirements using these commands:
 ```bash
 python -m venv .animation_venv
-source .animation_venv/bin/activate  # On Windows use: .venv\Scripts\activate
+source .animation_venv/bin/activate  
 pip install -r animations/requirements.txt
 ```
 and: 
 ```bash
 python -m venv .exp_venv
-source .exp_venv/bin/activate  # On Windows use: .venv\Scripts\activate
+source .exp_venv/bin/activate  
 pip install -r src/requirements.txt
 ```
 ## Generate a scene
