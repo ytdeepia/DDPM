@@ -1,4 +1,4 @@
-# Unadjusted Langevin Algorithm
+# Denoising Diffusion Probabilistic Models
 
 ## What is this repo
 
